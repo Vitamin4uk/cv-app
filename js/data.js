@@ -2,7 +2,7 @@ const data = {
   first_name: "Viktor",
   last_name: "Mostovyi",
   job_title: "Front - End Developer",
-  photo: "images/10.png",
+  photo: "images/1.png",
   phone: "+380-96-254-15-50",
   email: "mvvfreelance@gmail.com",
   skype: "most_vik",
